@@ -15,7 +15,7 @@ class Node
   end
 
   def empty?
-    @next.nil?
+    @next_node.nil?
   end
 
   def to_s
