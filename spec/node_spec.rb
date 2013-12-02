@@ -7,5 +7,6 @@ describe Node do
     end
     it "can add an element"
     it "can delete an element"
+    it "... add more examples ..."
   end
 end
